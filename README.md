@@ -17,6 +17,9 @@
 <a href="https://t.me/joinchat/6OsUFLXa_Yo1MGM5"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://www.instagram.com/jose_shark8/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=piratainformatico2&bg_color=111111&color=ffffff&line=525252&point=ff0000&hide_border=true" /></a>
+
 <p align="center">
 <a href="https://github.com/piratainformatico2/ofusk"><img title="OFUSK" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=ofusk&theme=highcontrast"></a>
 <a href="https://github.com/piratainformatico2/LocalXpose"><img title="LocalXpose" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=LocalXpose&theme=highcontrast"></a>
