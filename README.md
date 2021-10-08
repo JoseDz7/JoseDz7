@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/JaimeTR"><img title="JAIME TR" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeTR&layout=compact"></a>
+<a href="https://github.com/piratainformatico2"><img title="⍣᭕ᬁ᭖José Díaz᭖᭕ᬁ⍣" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratainformatico2&layout=compact"></a>
 </p>
 
 
