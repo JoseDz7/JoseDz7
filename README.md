@@ -9,7 +9,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com)
 
 
-<p align="center"><a href="https://github.com/JaimeTR"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=JaimeTR&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/piratainformatico2"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=JaimeTR&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 
