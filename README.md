@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/jose_shark8/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 <p align="center">
-<a href="https://github.com/piratainformatico2/ofusk"><img title="OFUSK" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2TR&repo=ofusk&theme=highcontrast"></a>
+<a href="https://github.com/piratainformatico2/ofusk"><img title="OFUSK" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=ofusk&theme=highcontrast"></a>
 <a href="https://github.com/JaimeTR/instahack"><img title="INSTAHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=instahack&theme=highcontrast"></a>
 <a href="https://github.com/JaimeTR/SvenBot"><img title="SVENBOT" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=SvenBot&theme=highcontrast"></a>
 <a href="https://github.com/JaimeTR/FBInfo"><img title="FBInfo" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=FBInfo&theme=highcontrast"></a>
