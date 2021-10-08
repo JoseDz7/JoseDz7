@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href="http://telegram/webstrservices"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinchat/6OsUFLXa_Yo1MGM5"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://www.instagram.com/jaimetr_/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 <p align="center">
