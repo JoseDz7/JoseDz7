@@ -33,7 +33,7 @@
 
 
 <!-- NO COPIAR, JOSÉ DÍAZ It's the beast -->
-[version]: https://img.shields.io/badge/Versi%C3%B3n-Perfil%3A%20V.1.5-green
+[version]: https://img.shields.io/badge/Versi%C3%B3n-Scriptl%3A%20V.1.0-green
 [tested]: https://img.shields.io/badge/Programer-Kali%20Linux%20%7C%20Parrot%20%7C%20Termux-blue
 [autor]: https://img.shields.io/badge/Author-%40⍣᭕ᬁ᭖José_Díaz᭖᭕ᬁ⍣-red
 [autor2]: https://img.shields.io/badge/Equipo-%40⍣᭕ᬁ᭖José__Zpt᭖᭕ᬁ⍣-red
