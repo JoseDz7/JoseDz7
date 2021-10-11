@@ -24,7 +24,7 @@
 <a href="https://github.com/piratainformatico2/ofusk"><img title="OFUSK" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=ofusk&theme=highcontrast"></a>
 <a href="https://github.com/piratainformatico2/LocalXpose"><img title="LocalXpose" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=LocalXpose&theme=highcontrast"></a>
 <a href="https://github.com/piratainformatico2/packages"><img title="packages" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=packages&theme=highcontrast"></a>
-<a href="https://github.com/piratainformatico2/virusV1"><img title="virusV1" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=virusV1&theme=highcontrast"></a>
+<a href="https://github.com/piratainformatico2/MetaInfo"><img title="virusV1" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=virusV1&theme=highcontrast"></a>
 </p>
 
 <p align="center">
