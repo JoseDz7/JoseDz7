@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://t.me/joinchat/6OsUFLXa_Yo1MGM5"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://www.instagram.com/jose_shark8/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
-<a href="https://wa.me/+522283821202/"><img title="Whatsapp" src="https://img.shields.io/badge/WhatsApp-cyan?style=for-the-badge&logo=Whatsapp"></a>
+<a href="https://wa.me/+522283821202/"><img title="Whatsapp" src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=Whatsapp"></a>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=piratainformatico2&bg_color=111111&color=ffffff&line=525252&point=ff0000&hide_border=true" /></a>
 
