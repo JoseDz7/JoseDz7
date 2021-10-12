@@ -2,6 +2,8 @@
 
 <p align="center"><img src="https://github.com/piratainformatico2/packages/blob/main/Images/20210928_223304.gif" width="360" height="115"/> </p>
 
+---
+
 ![version]
 ![Tested]
 ![autor]
