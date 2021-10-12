@@ -2,8 +2,7 @@
 
 <p align="center"><img src="https://github.com/piratainformatico2/packages/blob/main/Images/20210928_223304.gif" width="360" height="115"/> </p>
 <p align="center">
-  ⸸ 𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7
-... of the best !!! ⸸
+EL CONOCIMIENTO ES PODER
 </p>
 
 
