@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/piratainformatico2"><img title="⍣᭕ᬁ᭖José Díaz᭖᭕ᬁ⍣" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratainformatico2&layout=compact"></a>
+⍣᭕ᬁ᭖José Díaz᭖᭕ᬁ⍣
 </p>
 
 
