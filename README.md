@@ -26,7 +26,7 @@
 <a href="https://github.com/piratainformatico2/MetaInfo"><img title="MetaInfo" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=MetaInfo&theme=highcontrast"></a>
 </p>
 
-<p align="center">
+<p align="right">
 ⍣᭕ᬁ᭖© 2021᭖᭕ᬁ⍣
 </p>
 
