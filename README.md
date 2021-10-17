@@ -27,6 +27,10 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/piratainformatico2"><img title="JoséDíaz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratainformatico2&layout=compact"></a>
+</p>
+
+<p align="center">
 ⍣᭕ᬁ᭖© 2021᭖᭕ᬁ⍣
 </p>
 
