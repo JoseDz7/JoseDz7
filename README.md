@@ -11,8 +11,9 @@
 <p align="center"><a href="https://github.com/piratainformatico2"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=piratainformatico2&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-![footer](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red) width ="120" height="115"
+
 <p align="center">
+<a ![footer](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red) width ="120" height="115"></a
 <a href="https://t.me/joinchat/6OsUFLXa_Yo1MGM5"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://www.instagram.com/jose_shark8/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <a href="https://wa.me/+522283821202/"><img title="Whatsapp" src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=Whatsapp"></a>
