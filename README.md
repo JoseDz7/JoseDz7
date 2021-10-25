@@ -34,7 +34,7 @@
 ⍣᭕ᬁ᭖© 2021᭖᭕ᬁ⍣
 </p>
 
-![footer](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red) width ="120" height="115"
+![footer](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red width="120 height="115")
 
 
 <!-- NO COPIAR, JOSÉ DÍAZ It's the beast -->
