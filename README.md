@@ -34,9 +34,6 @@
 ⍣᭕ᬁ᭖© 2021᭖᭕ᬁ⍣
 </p>
 
-<a href="https://github.com/piratainformatico2"><img title="stast" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red"></a>
-
-
 
 <!-- NO COPIAR, JOSÉ DÍAZ It's the beast -->
 [version]: https://img.shields.io/badge/Versi%C3%B3n-perfil%3A%20V.1.0-green
