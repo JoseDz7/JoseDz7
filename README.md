@@ -11,9 +11,8 @@
 <p align="center"><a href="https://github.com/piratainformatico2"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=piratainformatico2&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-(https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/UserM0100
 <p align="center">
-<a href="https://t.me/joinchat/6OsUFLXa_Yo1MGM5"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=Telegram" width="120" height="115"></a>
+<a href="https://t.me/joinchat/6OsUFLXa_Yo1MGM5"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://www.instagram.com/jose_shark8/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <a href="https://wa.me/+522283821202/"><img title="Whatsapp" src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=Whatsapp"></a>
 
