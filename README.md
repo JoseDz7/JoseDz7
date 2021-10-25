@@ -13,7 +13,6 @@
 
 
 <p align="center">
-<a ![footer](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red) width ="120" height="115"></a
 <a href="https://t.me/joinchat/6OsUFLXa_Yo1MGM5"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://www.instagram.com/jose_shark8/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <a href="https://wa.me/+522283821202/"><img title="Whatsapp" src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=Whatsapp"></a>
@@ -34,6 +33,8 @@
 <p align="center">
 ⍣᭕ᬁ᭖© 2021᭖᭕ᬁ⍣
 </p>
+
+![footer](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red) width ="120" height="115"
 
 
 <!-- NO COPIAR, JOSÉ DÍAZ It's the beast -->
