@@ -34,7 +34,7 @@
 ⍣᭕ᬁ᭖© 2021᭖᭕ᬁ⍣
 </p>
 
-<a href="https://github.com"><img title="stast" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red"></a>
+<a href="https://github.com"><img title="stast" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red" width="120" height"115"></a>
 
 
 
