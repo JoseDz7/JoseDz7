@@ -22,7 +22,7 @@
 <p align="center">
 <a href="https://github.com/piratainformatico2/ofusk"><img title="OFUSK" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=ofusk&theme=highcontrast"></a>
 <a href="https://github.com/piratainformatico2/LocalXpose"><img title="LocalXpose" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=LocalXpose&theme=highcontrast"></a>
-<a href="https://github.com/piratainformatico2/packages"><img title="packages" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=packages&theme=highcontrast"></a>
+<a href="https://github.com/piratainformatico2/MatePower"><img title="MathePower" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=MathePower&theme=highcontrast"></a>
 <a href="https://github.com/piratainformatico2/MetaInfo"><img title="MetaInfo" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=MetaInfo&theme=highcontrast"></a>
 </p>
 
