@@ -20,10 +20,10 @@
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JoseDz7&bg_color=111111&color=ffffff&line=525252&point=ff0000&hide_border=true" /></a>
 
 <p align="center">
-<a href="https://github.com/JoseDz7/ofusk"><img title="OFUSK" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=ofusk&theme=highcontrast"></a>
-<a href="https://github.com/JoseDz7/LocalXpose"><img title="LocalXpose" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=LocalXpose&theme=highcontrast"></a>
-<a href="https://github.com/JoseDz7/MatePower"><img title="MathePower" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=MathePower&theme=highcontrast"></a>
-<a href="https://github.com/JoseDz7/MetaInfo"><img title="MetaInfo" src="https://github-readme-stats.vercel.app/api/pin/?username=piratainformatico2&repo=MetaInfo&theme=highcontrast"></a>
+<a href="https://github.com/JoseDz7/ofusk"><img title="OFUSK" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseDz7&repo=ofusk&theme=highcontrast"></a>
+<a href="https://github.com/JoseDz7/LocalXpose"><img title="LocalXpose" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseDz7&repo=LocalXpose&theme=highcontrast"></a>
+<a href="https://github.com/JoseDz7/MatePower"><img title="MathePower" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseDz7&repo=MathePower&theme=highcontrast"></a>
+<a href="https://github.com/JoseDz7/MetaInfo"><img title="MetaInfo" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseDz7&repo=MetaInfo&theme=highcontrast"></a>
 </p>
 
 <p align="center">
